@@ -32,6 +32,9 @@
 - **자동 전송**: 5초마다 센서 데이터를 FastAPI 서버로 자동 전송
 - **임계값 알림**: 위험 수준 감지시 콘솔 알림
 
+## 시스템 아키텍처
+<img width="1549" height="703" alt="Image" src="https://github.com/user-attachments/assets/65ac1e78-c3cb-452f-b8f0-3b6c89d69cfa" />
+
 ## 프로젝트 구조
 
 ```
